@@ -53497,7 +53497,7 @@ R.y5.prototype={
 D:function(a,b){var s=null
 return new R.uu("assets/images/appstore_badge.svg","AppStore",s,s,s,s)}}
 R.A_.prototype={
-D:function(a,b){return new R.uu("assets/images/google-play-badge.svg","Google Play",".apk","https://github.com/f69/lamptest/releases/latest/download/lamptest.apk",40,null)}}
+D:function(a,b){return new R.uu("assets/images/google_play_badge.svg","Google Play",".apk","https://github.com/f69/lamptest/releases/latest/download/lamptest.apk",40,null)}}
 R.uu.prototype={
 D:function(a,b){var s=null
 return M.o4(T.lf(S.a9W(this.c,this.r),C.c3,s,s,s,!0),s,new R.Xh(this,b),s,s,s,s)}}
